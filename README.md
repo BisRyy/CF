@@ -1,4 +1,4 @@
-<h1 align="center">A2 Online Judge</h1>
+<h1 align="center"> Codeforces Practice Simplified</h1>
 
 <div align="center">
   <strong>List of quality question for practice</strong>
@@ -61,3 +61,4 @@ KEY: `📦 NEW`, `👌 IMPROVE`, `🐛 FIX`, `📖 DOC`, `🚀 RELEASE`, and `�
 ## Authors
 
 - [@iamsahebgiri](https://www.github.com/iamsahebgiri)
+- [@Bisryy](https://github.com/bisryy)
